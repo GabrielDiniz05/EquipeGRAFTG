@@ -56,3 +56,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 <br>
 
 # Agradecimentos
+Agradecimentos especiais aos integrantes do grupo pela ajuda, contribuição, e realização do sonho. Agradecimentos especiais ao nosso Professor Diego Augusto, que nos proporcionou as ferramentas para a construção e edificação deste projeto.
