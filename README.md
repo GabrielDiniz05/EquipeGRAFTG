@@ -8,12 +8,14 @@
 <br>
 
 # Sobre o Projeto
-### Status do projeto
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
 
 <br>
 
 # Índice
-
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#indice/sumario)
 * [Requisitos funcionais](#requisitos-funcionais)
