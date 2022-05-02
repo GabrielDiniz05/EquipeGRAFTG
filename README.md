@@ -1,4 +1,4 @@
-# Associação Anti-Humanitária
+# Projeto de Inovação Tecnológica
 ### Capa
 
 <div>
