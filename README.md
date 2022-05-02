@@ -7,6 +7,8 @@
 
 <br>
 
+<p style="background-image: url('https://img.freepik.com/vetores-gratis/fundo-abstrato-colorido_23-2148807053.jpg?w=2000');">
+
 # Sobre o Projeto
 ### Status do projeto
 
