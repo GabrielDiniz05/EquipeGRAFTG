@@ -8,6 +8,7 @@
 <br>
 
 # Sobre o Projeto
+Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano, com foco no acesso equitativo e a preços acessíveis para todos
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
