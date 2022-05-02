@@ -36,7 +36,7 @@
 <br>
 
 # Autores
-* Abdon frança neto
+* Abdon França Neto
 * Gabriel de Assis Lopes Diniz
 * Gabriel Carlos Souza
 * Fernando de Deus Teixeira Junior
