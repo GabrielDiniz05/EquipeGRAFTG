@@ -1,4 +1,4 @@
-'# Título do Projeto
+# Título do Projeto
 ### Capa
 
 <div>
@@ -13,14 +13,14 @@
 <br>
 
 # Índice
-[Sobre](#sobre o projeto)
-[Sumário](#indice/sumario)
-[Requisitos funcionais](#requisitos-funcionais)
-[Técnologias usadas](#tecnologias-usadas)
-[Contribuição](#contribuição)
-[Autores](#autores)
-[Licença](#licença)
-[Agradecimentos](#agradecimentos)
+* [Sobre](#sobre-o-projeto)
+* [Sumário](#indice/sumario)
+* [Requisitos funcionais](#requisitos-funcionais)
+* [Técnologias usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+* [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
 <br>
 
 # Requisitos funcionais
@@ -36,7 +36,7 @@
 <br>
 
 # Autores
-* Abdon França Neto
+* Abdon frança neto
 * Gabriel de Assis Lopes Diniz
 * Gabriel Carlos Souza
 * Fernando de Deus Teixeira Junior
