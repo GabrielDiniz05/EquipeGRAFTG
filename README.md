@@ -1,4 +1,4 @@
-# Título do Projeto
+'# Título do Projeto
 ### Capa
 
 <div>
@@ -36,11 +36,11 @@
 <br>
 
 # Autores
-Abdon frança neto
-Gabriel de Assis Lopes Diniz
-Gabriel Carlos Souza
-Fernando de Deus Teixeira Junior
-Raí Átila Cavalcante
+* Abdon frança neto
+* Gabriel de Assis Lopes Diniz
+* Gabriel Carlos Souza
+* Fernando de Deus Teixeira Junior
+* Raí Átila Cavalcante
 
 <br>
 
