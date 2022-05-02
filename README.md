@@ -8,7 +8,10 @@
 <br>
 
 # Sobre o Projeto
-### Status do projeto
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
 
 <br>
 
