@@ -47,6 +47,7 @@ Nosso objetivo é: desenvolver infraestrutura de qualidade, confiável, sustent�
 * Gabriel Carlos Souza
 * Fernando de Deus Teixeira Junior
 * Raí Átila Cavalcante
+* Thallison Ferreira
 
 <br>
 
